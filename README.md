@@ -1,2 +1,3 @@
 # Linux_Lokaverkefni
-Linux server
+
+<h1> Configured static ip address on the private interface </h1>
